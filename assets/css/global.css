@@ -1,0 +1,10 @@
+.swiper {
+    width: 1492px;
+    height: 683px;
+  }
+  .swiper-button-prev::after{
+    color:  white;
+  }
+  .swiper-button-next::after{
+    color:  white;
+  }
